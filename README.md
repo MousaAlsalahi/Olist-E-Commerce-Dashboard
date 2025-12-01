@@ -7,7 +7,15 @@ I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to
 - Visualizations: **Bar charts, column charts, pie charts, KPIs**
 - Interactivity: **Drill-through, slicers, filters**
 
-## Key Insights
+## The analysis includes the following tables:  
+- **customers** – customer details  
+- **orders** – order transactions  
+- **products** – product catalog  
+- **order_items** – items in each order  
+- **order_reviews** – customer review scores  
+- **sellers** – seller details  
+
+### 📊  Key Insights
 
 ### 1️⃣ Customer & Revenue Insights
 - Average order value: **$88.97**
