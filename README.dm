@@ -1,38 +1,29 @@
-Last Version
-# Olist E-Commerce Dashboard
+# E-Commerce Sales Analysis
 
-![Dashboard Preview](images/image1.png) <!-- Replace with your screenshot -->
-
-## Overview
-This project is a **Power BI Dashboard** for **Olist E-Commerce**, built entirely using **Power BI Desktop** and **Power Query**.  
-
-It showcases **data cleaning, transformation, and interactive reporting**, using **explicit measures, implicit measures, and parameters** to drive insights.  
+A complete analysis of Brazilian e-commerce data covering customers, orders, products, payments, sellers, delivery performance, and revenue trends. The project includes full data cleaning, exploratory analysis, feature engineering, insight generation, and an interactive Power BI dashboard.
 
 ---
 
-## Dashboard Features & Visuals
-- **Line Charts**: Track **sales trends over time** (daily, monthly, yearly).  
-- **Bar/Column Charts**: Analyze **top-selling products**, **top customers**, and **top sellers**.  
-- **Cards & KPI Visuals**: Display **total sales, average delivery time, and customer satisfaction scores**.  
-- **Drill-through Pages**: Navigate to **detailed customer, product, or seller pages** from summary visuals.  
-- **Parameters**:  
-  - Users can select **City or State** to filter the dashboard.  
-  - Toggle between **Order Count**, **Total Sales**, or **Average Sales** to dynamically update visuals.  
-  - Focus on **Top Customers, Sellers, or Products** based on the selected metric.  
-- **Filters & Slicers**: Filter dashboard by **product category, region, or customer segment**.  
+## 📌 Project Overview
+This project analyzes real e-commerce transaction data to uncover insights that help businesses understand customer behavior, product performance, operational efficiency, and revenue trends.
+
+The analysis includes:
+- Customer segmentation  
+- Order and product performance metrics  
+- Payment and revenue breakdowns  
+- Delivery delays and logistics performance  
+- Time-series analysis  
+- KPI automation through Python and Power BI  
 
 ---
 
-## Power Query Transformations
-- **Data Cleaning**: Remove duplicates, handle missing values, and standardize columns.  
-- **Merging Tables**: Combine **Orders, Products, Customers, Sellers, Order Items, and Order Reviews** into a single data model for comprehensive analysis.  
-- **Data Shaping**: Filter, pivot/unpivot, rename, and format columns for reporting.  
+## 🛠️ Tools & Technologies
+- **Python** (pandas, numpy, matplotlib, seaborn, plotly)  
+- **Power BI**  
+- **Jupyter Notebook**  
+- **GitHub**  
+- **Dataset:** Brazilian e-commerce public dataset (Olist)
 
 ---
 
-## Measures
-- **Explicit Measures**: Manually created using **DAX**, e.g.,  
-  ```DAX
-  Total Sales Selected = SUM(Sales[Amount])
-  Avg Delivery Time = AVERAGE(Delivery[Days])
-  Customer Satisfaction Avg = AVERAGE(Reviews[Score])
+## 📂 Project Structure
