@@ -52,5 +52,5 @@ I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to
 ## 📊 Dashboard
 The interactive Power BI dashboard allows dynamic drill-through for **customers** and **products** to explore these insights in detail.
 
-🔗 **GitHub Repository:** [OSIL E-Commerce Dashboard](https://github.com/MousaAlsalahi/E-Commerce-Porject/tree/main)
+🔗 **GitHub Repository:** [Olist E-Commerce Dashboard](https://github.com/MousaAlsalahi/Olist-E-Commerce-Dashboard)
 
