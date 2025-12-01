@@ -18,11 +18,11 @@ The analysis includes:
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python** (pandas, numpy, matplotlib, seaborn, plotly)  
-- **Power BI**  
-- **Jupyter Notebook**  
-- **GitHub**  
-- **Dataset:** Brazilian e-commerce public dataset (Olist)
+**Python** (pandas, numpy, matplotlib, seaborn, plotly)  
+**Power BI**  
+**Jupyter Notebook**  
+**GitHub**  
+**Dataset:** Brazilian e-commerce public dataset (Olist)
 
 ---
 
