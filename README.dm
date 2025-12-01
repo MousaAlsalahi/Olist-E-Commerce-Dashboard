@@ -8,12 +8,12 @@ A complete analysis of Brazilian e-commerce data covering customers, orders, pro
 This project analyzes real e-commerce transaction data to uncover insights that help businesses understand customer behavior, product performance, operational efficiency, and revenue trends.
 
 The analysis includes:
-- Customer segmentation  
-- Order and product performance metrics  
-- Payment and revenue breakdowns  
-- Delivery delays and logistics performance  
-- Time-series analysis  
-- KPI automation through Python and Power BI  
+* Customer segmentation  
+* Order and product performance metrics  
+* Payment and revenue breakdowns  
+* Delivery delays and logistics performance  
+* Time-series analysis  
+* KPI automation through Python and Power BI  
 
 ---
 
