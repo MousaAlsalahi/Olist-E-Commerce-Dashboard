@@ -123,7 +123,7 @@ This window provides a **customer-focused analysis**:
 
 This structure allows **easy exploration of performance trends** across customers, products, and overall e-commerce operations, making the dashboard both **informative and interactive**.
 
-🔗 **Full Interactive Dashboard:** [OSIL E-Commerce Dashboard](https://github.com/MousaAlsalahi/Olist-E-Commerce-Dashboard)
+🔗 **Full Interactive Dashboard:** [Olist E-Commerce Dashboard](https://github.com/MousaAlsalahi/Olist-E-Commerce-Dashboard/blob/main/Power%20BI%20Dashboard.pbix))
 
 
 
