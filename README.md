@@ -4,7 +4,7 @@ I analyzed the **Olist E-Commerce dataset** and built a **Power BI dashboard** t
 
 ## Skills Applied
 - Power BI: **Power Query, DAX measures, parameters**
-- Visualizations: **Bar charts, column charts, pie charts, KPIs**
+- Visualizations: **Bar charts, column charts, guage charts, donut charts, line charts, KPIs**
 - Interactivity: **Drill-through, slicers, filters**
 
 ## The analysis includes the following tables:  
@@ -75,7 +75,7 @@ This window provides a **high-level summary** of the e-commerce performance:
   - Order count  
 
 - **Visualizations:**  
-  - Bar chart combining **customers, sellers, and products** in one chart  
+  - Bar chart combining **customers, sellers, and products** in one chart 
   - Chart showing **state and city performance**, connected via a **parameter**  
   - Line chart tracking **order count, average sales, and total sales over time**
 
@@ -91,7 +91,7 @@ This window focuses on **product-level performance and comparisons**:
 
 - **Visualizations:**  
   - Gauge and donut charts comparing:  
-    - Average of category vs global average  
+    - Average of category price vs global average  
     - Average review score  
     - Average delivery time vs global average  
     - Order count by category  
