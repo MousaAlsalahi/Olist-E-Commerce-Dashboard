@@ -64,7 +64,7 @@ I analyzed the **Olist E-Commerce dataset** and built a **Power BI dashboard** t
 The dashboard is organized into **three main windows**, each highlighting key insights and supporting interactivity through **parameters, slicers, and drill-through functionality**.
 
 ---
-
+!(The main Page)[images/1.main_page.PNG]
 ### 1️⃣ Main Window – Overview & KPIs
 This window provides a **high-level summary** of the e-commerce performance:
 
@@ -85,7 +85,7 @@ This window provides a **high-level summary** of the e-commerce performance:
   - Parameter to switch between **average sales, order count, and total sales**  
 
 ---
-
+!(The Product dashboard )[images/2.products_page.png]
 ### 2️⃣ Products Window
 This window focuses on **product-level performance and comparisons**:
 
@@ -102,7 +102,7 @@ This window focuses on **product-level performance and comparisons**:
   - **State** and **city slicers** filter data according to the selected location  
 
 ---
-
+!(The Customer dashboard )[images/3.customers_page.PNG]
 ### 3️⃣ Customer Window
 This window provides a **customer-focused analysis**:
 
