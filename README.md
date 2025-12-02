@@ -1,6 +1,6 @@
-# OSIL E-Commerce Dashboard Insights
+# Olist E-Commerce Dashboard Insights
 
-I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to uncover actionable insights across customers, products, and operations. The dashboard includes drill-through for **customers** and **products**, dynamic measures, parameters, and interactive charts.
+I analyzed the **Olist E-Commerce dataset** and built a **Power BI dashboard** to uncover actionable insights across customers, products, and operations. The dashboard includes drill-through for **customers** and **products**, dynamic measures, parameters, and interactive charts.
 
 ## Skills Applied
 - Power BI: **Power Query, DAX measures, parameters**
