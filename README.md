@@ -57,7 +57,7 @@ I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to
 - Lowest: **Security & Services (2.5)**
 - Review score distribution: **>50% scored 5**, **8% scored 3**, **12% scored 1**
 
-# 🏠 OSIL E-Commerce Dashboard – Window Overview
+## 🏠 OSIL E-Commerce Dashboard – Window Overview
 
 The dashboard is organized into **three main windows**, each highlighting key insights and supporting interactivity through **parameters, slicers, and drill-through functionality**.
 
