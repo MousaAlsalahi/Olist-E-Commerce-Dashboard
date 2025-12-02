@@ -57,13 +57,15 @@ I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to
 - Lowest: **Security & Services (2.5)**
 - Review score distribution: **>50% scored 5**, **8% scored 3**, **12% scored 1**
 
+---
+
 ## 🏠 OSIL E-Commerce Dashboard – Window Overview
 
 The dashboard is organized into **three main windows**, each highlighting key insights and supporting interactivity through **parameters, slicers, and drill-through functionality**.
 
 ---
 
-## 1️⃣ Main Window – Overview & KPIs
+### 1️⃣ Main Window – Overview & KPIs
 This window provides a **high-level summary** of the e-commerce performance:
 
 - **KPIs displayed:**  
@@ -84,7 +86,7 @@ This window provides a **high-level summary** of the e-commerce performance:
 
 ---
 
-## 2️⃣ Products Window
+### 2️⃣ Products Window
 This window focuses on **product-level performance and comparisons**:
 
 - **Visualizations:**  
@@ -101,7 +103,7 @@ This window focuses on **product-level performance and comparisons**:
 
 ---
 
-## 3️⃣ Customer Window
+### 3️⃣ Customer Window
 This window provides a **customer-focused analysis**:
 
 - **Visualizations:**  
