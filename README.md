@@ -127,10 +127,3 @@ This structure allows **easy exploration of performance trends** across customer
 
 
 
-
-
-## 📊 Dashboard
-The interactive Power BI dashboard allows dynamic drill-through for **customers** and **products** to explore these insights in detail.
-
-🔗 **GitHub Repository:** [Olist E-Commerce Dashboard](https://github.com/MousaAlsalahi/Olist-E-Commerce-Dashboard)
-
