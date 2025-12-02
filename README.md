@@ -57,6 +57,76 @@ I analyzed the **OSIL E-Commerce dataset** and built a **Power BI dashboard** to
 - Lowest: **Security & Services (2.5)**
 - Review score distribution: **>50% scored 5**, **8% scored 3**, **12% scored 1**
 
+# 🏠 OSIL E-Commerce Dashboard – Window Overview
+
+The dashboard is organized into **three main windows**, each highlighting key insights and supporting interactivity through **parameters, slicers, and drill-through functionality**.
+
+---
+
+## 1️⃣ Main Window – Overview & KPIs
+This window provides a **high-level summary** of the e-commerce performance:
+
+- **KPIs displayed:**  
+  - Total sales  
+  - Average sales  
+  - Delivery time (in days)  
+  - Order count  
+
+- **Visualizations:**  
+  - Bar chart combining **customers, sellers, and products** in one chart  
+  - Chart showing **state and city performance**, connected via a **parameter**  
+  - Line chart tracking **order count, average sales, and total sales over time**
+
+- **Interactivity:**  
+  - Slicers for **state** and **city**  
+  - Parameter to switch between **customer, seller, and product views**  
+  - Parameter to switch between **average sales, order count, and total sales**  
+
+---
+
+## 2️⃣ Products Window
+This window focuses on **product-level performance and comparisons**:
+
+- **Visualizations:**  
+  - Gauge and donut charts comparing:  
+    - Average of category vs global average  
+    - Average review score  
+    - Average delivery time vs global average  
+    - Order count by category  
+  - Bar charts for **companies** and **customers**, with a **parameter** to switch between **order count, total sales, and average sales**  
+  - Line chart showing **changes over time**
+
+- **Interactivity:**  
+  - **State** and **city slicers** filter data according to the selected location  
+
+---
+
+## 3️⃣ Customer Window
+This window provides a **customer-focused analysis**:
+
+- **Visualizations:**  
+  - Gauge charts comparing:  
+    - Average spent vs global average  
+    - Customer satisfaction  
+    - Median delivery time vs global  
+    - Order count vs global  
+  - Bar chart showing **category and company performance**, with a **parameter** to switch between **average sales, total sales, and order count**  
+  - Line chart showing **changes over time**
+
+- **Interactivity:**  
+  - **State** and **city slicers** filter the data according to location  
+  - Parameters allow dynamic comparison of **sales and order metrics**  
+
+---
+
+This structure allows **easy exploration of performance trends** across customers, products, and overall e-commerce operations, making the dashboard both **informative and interactive**.
+
+🔗 **Full Interactive Dashboard:** [OSIL E-Commerce Dashboard](https://github.com/MousaAlsalahi/Olist-E-Commerce-Dashboard)
+
+
+
+
+
 ## 📊 Dashboard
 The interactive Power BI dashboard allows dynamic drill-through for **customers** and **products** to explore these insights in detail.
 
